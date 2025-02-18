@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Backend**
 
-💬 Ask me about **Java, SQLServer,... or anything [here](https://github.com/nhuxuanviet)**
+💬 Ask me about **Java,... or anything [here](https://github.com/nhuxuanviet)**
 
 ⚡ Fun fact **I'm a beginner**
 
