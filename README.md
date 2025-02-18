@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently studying at **FPT University**
+ 🔭 I’m currently studying at **University**
  
  🌱 I’m currently learning **HTML, CSS, Javascript**
 
