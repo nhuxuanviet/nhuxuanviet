@@ -12,7 +12,7 @@
  
  🔭 I’m currently studying at **University**
  
- 🌱 I’m currently learning **HTML, CSS, Javascript**
+ 🌱 I’m currently learning **Backend**
 
 💬 Ask me about **Java, SQLServer,... or anything [here](https://github.com/nhuxuanviet)**
 
